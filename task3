@@ -1,0 +1,24 @@
+<h1>Заголовок всей страницы</h1>
+
+<article>
+  <h2>Заголовок статьи</h2>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde voluptas necessitatibus, doloremque vero pariatur aut delectus neque sint maxime! Dolore sed voluptatibus repellendus assumenda nostrum accusamus omnis, nesciunt libero iusto.</p>
+
+  <section>
+    <h3>Заголовок секции статьи</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum dolor facere, labore explicabo recusandae magnam sit atque aspernatur quaerat veritatis sunt veniam error velit odio excepturi pariatur eaque nesciunt vero, minus animi. Explicabo molestiae
+      modi magni labore iusto reprehenderit et repellat odit quas nisi, atque aut quidem praesentium nostrum mollitia?</p>
+
+    <section>
+      <h4>Заголовок подсекции</h4>
+      <ul>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+      </ul>
+    </section>
+
+  </section>
+
+</article>
