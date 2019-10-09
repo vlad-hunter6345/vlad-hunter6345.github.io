@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Brawl Stars</title>
+</head>
+<body>
+<h1>Brawl Stars</h1>
+<style>
+   p {
+    border: 1px solid red;
+    padding: 10px;
+   }
+  </style>
+<a
+href="https://play.google.com/store/apps/details?id=com.supercell.brawlstars">Скачать Brawl Stars</a>
