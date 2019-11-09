@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Shadows+Into+Light&display=swap');
+a:hover {
+    color: red
+}
+.a {
+    text-decoration: none;;
+}
+.header {
+    height: 60px;
+    margin-bottom: 5px;
+    background-color: #000000;
+}
+.body {
+    background: url(https://files.adme.ru/files/news/part_73/738010/7571560-1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project-650-26b294de5e-1484578499.jpg);
+    background-attachment: fixed; 
+    font-family: 'Big Shoulders Text', cursive;
+    
+}
+.outer {
+    display: table;
+    background: repeat-x #FFFF00;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+.inner {
+display: inline-block;
+height: 800px;
+width: 500px;
+border-width: 5px;
+}
