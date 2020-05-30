@@ -1,0 +1,131 @@
+body {
+    background: url(back.jpg) no-repeat;
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+    
+   }
+   .div{
+    display: inline-block;
+    margin: 11px 596px;
+    height: 59px;
+    width: 672px;
+    background-color: rgb(217, 247, 255);
+   }
+   .hic{
+    display: inline-block;
+    position: absolute;
+    margin: -96px -437px;
+    background-color: rgb(0, 255, 149);
+    width: 1274px;
+    opacity: 0;
+   }
+   .fgt{
+    display: inline-block;
+    position: absolute;
+    background-color: rgb(0, 255, 149);
+    font-size: 32px;
+    font-family: 'Monoton', cursive;
+    margin: 109px -1042px;
+    height: 53px;
+    width: 225px;
+   }
+   .fgt:hover .hic{
+       opacity: 1;
+   }
+   .p{
+    margin: 4px 7px
+   }
+   .name{
+    display: inline-block;
+    margin: 9px 14px;
+    height: 50px;
+    width: 231px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: 'Monoton', cursive;
+    font-size: 32px;
+    position: absolute;
+    text-align: center;
+   }
+   .div:hover .hic{
+       opacity: 1;
+   }
+   .name:hover{
+       background-color: white;
+       color: rgb(0, 0, 0);
+   }
+   .game{
+    display: inline-block;
+    position: absolute;
+    margin: -8px 60px;
+    font-size: 28px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bold;
+   }
+   .sub{
+    display: inline-block;
+    margin: 231px 596px;
+    height: 465px;
+    width: 672px;
+    background-color: rgb(136, 252, 204);
+    position: absolute;
+   }
+   .met{
+    display: inline-block;
+    margin: 36px 64px;
+    font-size: 38px;
+    font-family: 'Balsamiq Sans', cursive;
+    position: absolute;
+   }
+   .fi{
+    display: inline-block;
+    margin: 105px 23px;
+    font-size: 28px;
+    font-family: 'Balsamiq Sans', cursive;
+   }
+   ul li{
+    list-style: none;
+    padding: 13px 0px;
+   }
+  .fi a{
+       text-decoration: none;
+       color: black;
+       background-color: rgb(62, 127, 233);
+       
+   }
+   .fi a:hover{
+    color: rgb(190, 255, 177);
+    background-color: rgb(0, 27, 70);
+   }
+   .of{
+    font-size: 15px;
+    font-family: 'Poiret One', cursive;
+    margin: 64px 59px;
+   }
+   .gir{
+    display: inline-block;
+    margin: 51px -149px;
+    height: 38px;
+    width: 160px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Monoton', cursive;
+    font-size: 26px;
+    position: absolute;
+    text-align: center;
+    opacity: 0;
+   }
+   .gir a{
+       text-decoration: none;
+       color: black;
+   }
+   .gir:hover{
+    background-color: rgb(0, 0, 0);
+   }
+   .gir:hover a{
+    color: white;
+   }
+   .name:hover .gir{
+       opacity: 1;
+   }
